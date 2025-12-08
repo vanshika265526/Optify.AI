@@ -107,7 +107,6 @@ Users can:
 
 ---
 
----
 
 ## 🏁 How to Run the Project
 
@@ -125,6 +124,7 @@ python app.py
 
 Contributions, suggestions, and improvements are always welcome.
 Feel free to fork the project and raise a pull request. 🌍
+```
 
 ✨ “Your resume is your first impression. Make it unforgettable with Optify.ai.” ✨
 
