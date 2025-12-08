@@ -119,12 +119,15 @@ pip install -r requirements.txt
 
 # Run the Flask app
 python app.py
+```
 
-🤝 Contribution
+---
+
+## 🤝 Contribution
 
 Contributions, suggestions, and improvements are always welcome.
 Feel free to fork the project and raise a pull request. 🌍
-```
 
-✨ “Your resume is your first impression. Make it unforgettable with Optify.ai.” ✨
+
+## ✨ “Your resume is your first impression. Make it unforgettable with Optify.ai.” ✨
 
