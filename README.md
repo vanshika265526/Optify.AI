@@ -121,6 +121,6 @@ Feel free to fork the project and raise a pull request. 🌍
 
 
 <h1 align='center'>
-✨ “Your resume is your first impression. Make it unforgettable with Optify.ai.” ✨
+✨ “Your resume is your first impression. Make it unforgettable with Optify.AI.” ✨
 
 </h1>
