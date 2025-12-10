@@ -1,6 +1,6 @@
-# ⚡ Optify.ai – AI Resume Analyzer & Optimizer
+# ⚡ Optify.AI – AI Resume Analyzer & Optimizer
 
-**Optify.ai** is an AI-powered resume analysis and optimization tool built using **Python, Flask, and Cohere API**. It helps users analyze their resumes, match them with job descriptions, and receive smart AI-driven feedback to improve their chances of landing interviews.
+**Optify.AI** is an AI-powered resume analysis and optimization tool built using **Python, Flask, and Cohere API**. It helps users analyze their resumes, match them with job descriptions, and receive smart AI-driven feedback to improve their chances of landing interviews.
 
 Think of it as a **personal career coach powered by AI**. 🧠💼
 
@@ -129,5 +129,6 @@ Contributions, suggestions, and improvements are always welcome.
 Feel free to fork the project and raise a pull request. 🌍
 
 
+---
 ## ✨ “Your resume is your first impression. Make it unforgettable with Optify.ai.” ✨
 
