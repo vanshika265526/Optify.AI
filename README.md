@@ -1,6 +1,6 @@
-# ⚡ Optify.AI – AI Resume Analyzer & Optimizer
+<h1 align='center'> ⚡ Optify.AI – AI Resume Analyzer & Optimizer</h1>
 
-**Optify.AI** is an AI-powered resume analysis and optimization tool built using **Python, Flask, and Cohere API**. It helps users analyze their resumes, match them with job descriptions, and receive smart AI-driven feedback to improve their chances of landing interviews.
+**Optify.AI** is an AI-powered resume analysis and optimization tool built using **Python, Flask, REACT and Cohere API**. It helps users analyze their resumes, match them with job descriptions, and receive smart AI-driven feedback to improve their chances of landing interviews.
 
 Think of it as a **personal career coach powered by AI**. 🧠💼
 
@@ -26,7 +26,7 @@ Optify.ai solves this by using **natural language processing and AI insights** t
 
 The Home Page introduces users to the platform and its capabilities.  
 It includes:
-- A simple overview of what Optify.ai does  
+- A simple overview of what Optify.AI does  
 - Resume upload option  
 - Job description input section  
 - Easy navigation and clean UI  
@@ -35,7 +35,7 @@ It includes:
 
 ## 📄 Resume Analyzer Feature
 
-This is the **core feature of Optify.ai**.
+This is the **core feature of Optify.AI**.
 
 ### 🔹 How it works:
 - The user uploads their resume (PDF/Text)
@@ -65,19 +65,10 @@ This makes the resume **more ATS-friendly and recruiter-ready**.
 
 ---
 
-## 🔐 Authentication System (If Applied)
-
-Users can:
-- Sign up using email & password  
-- Log in securely  
-- Analyze multiple resumes  
-- Save previous analysis results  
-
----
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (or React if integrated)
+- **Frontend:** ReactJS, Vite(latest)
 - **Backend:** Python, Flask
 - **AI Model:** Cohere API
 
@@ -129,6 +120,7 @@ Contributions, suggestions, and improvements are always welcome.
 Feel free to fork the project and raise a pull request. 🌍
 
 
----
-## ✨ “Your resume is your first impression. Make it unforgettable with Optify.ai.” ✨
+<h1 align='center'>
+✨ “Your resume is your first impression. Make it unforgettable with Optify.ai.” ✨
 
+</h1>
